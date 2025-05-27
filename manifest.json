@@ -1,0 +1,10 @@
+{
+  "name": "Toy Support",
+  "description": "Use your Lovense toys with REPO. Because you've definitely been wanting to be able to do that for so long.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "nickklmao-MenuLib-2.4.1",
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/VoltaicGRiD/REPOToySupport"
+}

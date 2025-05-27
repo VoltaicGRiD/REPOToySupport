@@ -1,0 +1,11 @@
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToySupport.csproj.AssemblyReference.cache
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToySupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToySupport.AssemblyInfoInputs.cache
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToySupport.AssemblyInfo.cs
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToySupport.csproj.CoreCompileInputs.cache
+C:\Users\Dustin\source\repos\REPOToySupport\bin\Debug\netstandard2.1\REPOToySupport.deps.json
+C:\Users\Dustin\source\repos\REPOToySupport\bin\Debug\netstandard2.1\REPOToySupport.dll
+C:\Users\Dustin\source\repos\REPOToySupport\bin\Debug\netstandard2.1\LovenseRemote.dll
+C:\Users\Dustin\source\repos\REPOToySupport\bin\Debug\netstandard2.1\MenuLib.dll
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToyS.6D79336F.Up2Date
+C:\Users\Dustin\source\repos\REPOToySupport\obj\Debug\netstandard2.1\REPOToySupport.dll
